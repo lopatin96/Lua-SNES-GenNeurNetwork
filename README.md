@@ -38,7 +38,7 @@ There is an excellent <img src="img/emulator.games.png" alt="emulator.games logo
 
 I implemented the algorithm in Lua language. I did not know this language before but I was inspired <img src="img/wikipedia.png" alt="Wikipedia logo" width="15px" /> [how widely](https://en.wikipedia.org/wiki/List_of_applications_using_Lua) this lightweight, scripting language could be used. In addition, the BizHawk emulator run Lua without no hesitation.
 
-# Dive into genetic algorithm
+# Dive into genetic algorithms
 I cannot teach you a genetic algorithm, because — as I have mentioned — I have been still learning it. But I am glad to share useful links, where you can find the information for beginners.
 
 Do not think that it is too complicated for you. Because it is not! The main idea of each genetic algorithm is to evolve the best possible solution from a set of elements. All you need is implement necessary functions. Then run the algorithm and .. that is all. The solution will be found by the algorithm. All you need is to wait.
