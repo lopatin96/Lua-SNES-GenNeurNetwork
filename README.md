@@ -1,3 +1,5 @@
+<img src="img/mario.png" alt="Mario" width="400px" align="right">
+
 # Table of contents
 1. [Disclaimer](#disclaimer)
 2. [Problem](#problem)
