@@ -1,8 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)
 
-<img src="img/mario.png" alt="Mario" width="400px" align="right" style="margin-top: 75px">
-
 # Table of contents
+
+<img src="img/mario.png" alt="Mario" width="400px" align="right">
+
 1. [Disclaimer](#disclaimer)
 2. [Problem](#problem)
 3. [Technical preparing](#technical-preparing)
