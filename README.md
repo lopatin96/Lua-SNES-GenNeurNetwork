@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)
+
 <img src="img/mario.png" alt="Mario" width="400px" align="right">
 
 # Table of contents
