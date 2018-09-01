@@ -2,7 +2,7 @@
 
 # Table of contents
 
-<img src="img/mario.png" alt="Mario" width="400px" align="right">
+<img src="img/mario.png" alt="Mario" width="400px" align="right" id="logo">
 
 1. [Disclaimer](#disclaimer)
 2. [Problem](#problem)
