@@ -6,7 +6,7 @@
     display: none;
 }
 
-a:hover {
+a:hover, a:active {
     font-weight: normal;
     text-decoration: underline;
 }
