@@ -3,10 +3,14 @@
 
 @import "{{ site.theme }}";
 #logo {
-    display: none;
+  display: none;
 }
 
 a:hover, a:active {
-    font-weight: normal;
-    text-decoration: underline;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+a:visited {
+  font-weight: normal;
 }
